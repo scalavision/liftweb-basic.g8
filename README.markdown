@@ -1,4 +1,10 @@
-A [Giter8][g8] template for ...!
+Giter8 template for internal use!
+
+Was not able to connect to a private repo due to this issue:
+
+* https://github.com/foundweekends/giter8/issues/94
+
+The things lacking for a working liftweb repo is the dependencies that is generated, you may fork this and fix it as you wish :-)
 
 Template license
 ----------------

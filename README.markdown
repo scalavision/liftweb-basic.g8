@@ -1,4 +1,5 @@
 Giter8 template for internal use!
+-----------------------------------
 
 Was not able to connect to a private repo due to this issue:
 

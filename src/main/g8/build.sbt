@@ -1,4 +1,4 @@
-name := $name$
+name := "$name$"
 version := "0.1-SNAPSHOT"
 organization := "com.scalavision"
 
